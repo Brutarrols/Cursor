@@ -1,0 +1,97 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    margin: 0 auto;
+    max-width: 1024px;
+    text-align: center;
+}
+#ruleta
+{
+    margin: 0 auto;
+    max-width: 1024px;
+    height: 300px;
+    text-align: center;
+}
+
+.DRUID 
+{
+    background: url('img/allClass.png');
+    background-position: 0px -10px;
+    height: 320px;
+    width: 350px;
+}
+
+.HUNTER
+{
+    background: url('img/allClass.png');
+    background-position: -305px -10px;
+    height: 285px;
+    width: 340px; 
+}   
+.MAGE
+{
+    background: url('img/allClass.png');
+    background-position: -595px -10px;
+    height: 310px;
+    width: 300px;
+}
+.ROGUE
+{
+    background: url('img/allClass.png');
+    background-position: -900px -10px;
+    height: 280px;
+    width: 280px;
+}
+.XAMI
+{
+    background: url('img/allClass.png');
+    background-position: 0px -300px;
+    height: 320px;
+    width: 300px;
+}    
+.LOCK
+{
+    background: url('img/allClass.png');
+    background-position: -320px -300px;
+    height: 300px;
+    width: 300px;
+}
+.PALLY
+{
+    background: url('img/allClass.png');
+    background-position: -650px -300px;
+    height: 250px;
+    width: 250px;
+}
+.PRIEST
+{
+    background: url('img/allClass.png');
+    background-position: -910px -300px;
+    height: 250px;
+    width: 290px;
+}
+.WARRIOR
+{
+    background: url('img/allClass.png');
+    background-position: -640px -550px;
+    height: 290px;
+    width: 260px;
+}
+.DK
+{
+    background: url('img/allClass.png');
+    background-position: -310px -580px;
+    height: 255px;
+    width: 310px;
+}
+.MONK
+{
+    background: url('img/allClass.png');
+    background-position: -450px -831px;
+    height: 255px;
+    width: 310px;
+}
